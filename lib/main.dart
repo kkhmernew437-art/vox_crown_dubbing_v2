@@ -2,7 +2,6 @@ name: vox_crown_dubbing
 description: "Vox Crown Dubbing App"
 publish_to: 'none'
 version: 1.0.0+1
-
 environment:
   sdk: '>=3.0.0 <4.0.0'
 
